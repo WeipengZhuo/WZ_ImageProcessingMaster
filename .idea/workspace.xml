@@ -15,36 +15,149 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/WZ_PythonResearch" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Test_script.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1doy7Ujcb4lZnPlsfdGmxzBncHE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\wzhuo\PycharmProjects\WZ_ImageProcessingMaster" />
     </key>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
+  <component name="RunManager" selected="Python.Analyze_clonal_datasets">
+    <configuration name="AnalysisFunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WZ_ImageProcessingMaster" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AnalysisFunction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Analyze_clonal_datasets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WZ_ImageProcessingMaster" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Analyze_clonal_datasets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WZ_ImageProcessingMaster" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test_script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="WZ_ImageProcessingMaster" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WZ_ImageProcessingMaster" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
       <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
+        <item itemvalue="Python.Analyze_clonal_datasets" />
+        <item itemvalue="Python.Analyze_clonal_datasets" />
+        <item itemvalue="Python.Analyze_clonal_datasets" />
+        <item itemvalue="Python.Test_script" />
+        <item itemvalue="Python.Test_script" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -56,7 +169,90 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593105573305</updated>
+      <workItem from="1593318451069" duration="15791000" />
+      <workItem from="1593483140831" duration="96000" />
+      <workItem from="1593484074833" duration="2518000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="409" y="162" width="490" height="591" key="#xdebugger.evaluate" timestamp="1593319455328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="409" y="162" width="490" height="591" key="#xdebugger.evaluate/0.0.1920.1040/-1920.0.1536.824@-1920.0.1536.824" timestamp="1593319455328" />
+    <state width="1799" height="438" key="DebuggerActiveHint" timestamp="1593313930207">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1799" height="438" key="DebuggerActiveHint/0.0.1920.1040/-1920.0.1536.824@-1920.0.1536.824" timestamp="1593313930207" />
+    <state x="-1328" y="219" key="FileChooserDialogImpl" timestamp="1593217073365">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1328" y="219" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1536.824@-1920.0.1536.824" timestamp="1593217073365" />
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1593119631523" />
+    <state width="736" height="210" key="GridCell.Tab.0.bottom" timestamp="1593321579337">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="736" height="210" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1536.824@-1920.0.1536.824" timestamp="1593321579337" />
+    <state width="736" height="210" key="GridCell.Tab.0.center" timestamp="1593321579337">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="736" height="210" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1536.824@-1920.0.1536.824" timestamp="1593321579337" />
+    <state width="736" height="210" key="GridCell.Tab.0.left" timestamp="1593321579337">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="736" height="210" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1536.824@-1920.0.1536.824" timestamp="1593321579337" />
+    <state width="736" height="210" key="GridCell.Tab.0.right" timestamp="1593321579337">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="736" height="210" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1536.824@-1920.0.1536.824" timestamp="1593321579337" />
+    <state width="736" height="210" key="GridCell.Tab.1.bottom" timestamp="1593321579337">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="736" height="210" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1536.824@-1920.0.1536.824" timestamp="1593321579337" />
+    <state width="736" height="210" key="GridCell.Tab.1.center" timestamp="1593321579337">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="736" height="210" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1536.824@-1920.0.1536.824" timestamp="1593321579337" />
+    <state width="736" height="210" key="GridCell.Tab.1.left" timestamp="1593321579337">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="736" height="210" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1536.824@-1920.0.1536.824" timestamp="1593321579337" />
+    <state width="736" height="210" key="GridCell.Tab.1.right" timestamp="1593321579337">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="736" height="210" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1536.824@-1920.0.1536.824" timestamp="1593321579337" />
+    <state x="-1643" y="56" key="SettingsEditor" timestamp="1593317407859">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1643" y="56" key="SettingsEditor/0.0.1920.1040/-1920.0.1536.824@-1920.0.1536.824" timestamp="1593317407859" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1593384487582">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1920.1040/-1920.0.1536.824@-1920.0.1536.824" timestamp="1593319617075" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1593384487582" />
+    <state x="-6" y="0" width="779" height="830" key="dock-window-1" timestamp="1593483236493">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-6" y="0" width="779" height="830" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1593483236493" />
+    <state x="-7" y="0" width="974" height="1047" maximized="true" key="dock-window-1/0.0.1920.1040/-1920.0.1536.824@-1920.0.1536.824" timestamp="1593320525223" />
+    <state x="1877" y="42" width="974" height="1046" key="dock-window-1/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1593466244858" />
+    <state x="-1489" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1593315871629">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1489" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1536.824@-1920.0.1536.824" timestamp="1593315871629" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

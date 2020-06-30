@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import sys
 import argparse
 import scipy.ndimage as sp
-import AnalysisFunctions as AF
+import AnalysisFunction as AF
 import glob
 import os
 import sqlite3
@@ -44,7 +44,7 @@ def worm_analysis(img):
     ImOpen = cv2.morphologyEx(ImDia, cv2.MORPH_OPEN, kernel_5)
     filled = sp.morphology.binary_fill_holes(ImOpen)
 
-    optional: plot the results
+    # optional: plot the results
     plt.subplot(4,1,1)
     plt.imshow(th1)
     plt.title('Thresholded Image')
@@ -84,7 +84,7 @@ def worm_analysis(img):
     # Multiply your binary mask by the original image to get just the worm body
     image_gray = np.multiply(justWorm, img)
 
-    Plot resulting image
+    # Plot resulting image
     worm = np.divide(image_gray, 255)
     plt.subplot(2,1,1)
     plt.imshow(img)

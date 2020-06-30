@@ -1,5 +1,7 @@
 # Branched off of Faye Clever's LiveBodyAnalysisV1 Master on 6/25/20
 
+# test image: D:\03192020_AllRawData\ClonalImagingData\02_01_2020_2nd_round_clonal_imaging\Group2\Trial2\Block1\kah160\Mut3_2_Snapshot55
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
@@ -39,13 +41,13 @@ for abs_directory in [f.path for f in os.scandir(args.path) if f.is_dir()]:
         print("Processing images in directory " + abs_directory)
     except:
         print("Could not access directory " + abs_directory)
-        continue
+    continue
 
 img_num = 1
 for filename in glob.glob('*.png'):
 
     if img_num % 10 == 0:
-            print("\tProcessing image #" + str(img_num))
+        print("\tProcessing image #" + str(img_num))
         img_num += 1
 
         #####################################################################################
